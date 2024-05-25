@@ -1,4 +1,4 @@
-# Определение суицидальных намеряний
+# Определение суицидальных намерений
 
 [ipynb](https://github.com/nosnic/projects_from_kaggle/tree/main/suicide_analysis)
 
